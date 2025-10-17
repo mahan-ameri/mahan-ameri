@@ -1,9 +1,18 @@
 - 👋 Hi, I’m @mahan-ameri
 - 🌱 I’m currently learning web developing
-- 📫 My Mail: mahanameri142@gmail.com
+- 📫 My E-Mail: mahanameri142@gmail.com
 
-![Iran](https://irantours24.com/wp-content/uploads/2017/01/Iranian-Art345524.jpg)
-<!---
-mahan-ameri/mahan-ameri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ❄️ Support Me
+If you find my projects useful and would like to support my journey, consider sending a small donation— I’d be truly grateful. ✨
+
+**EVM Wallet (MetaMask):**
+
+```
+0x22aDc02620D92973705F0274F6b0A5D8718b54B7
+```
+\- ✅ Supports Ethereum, Polygon, BNB Chain, and other EVM networks
+
+**Bitcoin:**
+```
+bc1ql3p5a9fgssrqqsu4mf6ckqk4xxkn74p6gqpqj9
+```
